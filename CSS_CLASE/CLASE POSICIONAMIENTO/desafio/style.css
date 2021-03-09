@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#titulo{
+    border: 2px black double;
+    position: relative;
+    top: 60px;
+    left: 180px;
+    display: inline-table;
+    background-color: cadetblue;
+    text-align: center;
+    font-family: monospace;
+    border-radius: 10px;
+    font-size: 20px;
+    height: 50px;
+    width: 250px;
+   
+}
+
+
+#texto{
+    border: 1px gold dotted;
+    position: absolute;
+    top: 110px;
+    left: 80px;
+    display: inline-table;
+    background-color: indianred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    border-radius: 5px;
+    width: 500px;
+    height: 300px;
+    
+}
+
+.img{
+    position: absolute;
+    top:20px;
+    left:50px;
+}
+

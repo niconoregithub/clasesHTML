@@ -1,0 +1,11 @@
+h2 + p{
+    color: tomato;
+}
+
+h3~p{
+    color: blue;
+}
+
+div>p{
+    color: chartreuse;
+}
