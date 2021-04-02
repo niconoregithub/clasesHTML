@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 1000px;
+    height: 1000px;
+    font-size: 1.6rem;
+}
+
+header{
+    background-color: darkgrey;
+    font-size: 15px;
+}
+
+.cabecera li{
+    display: inline-block;
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: monospace;
+    list-style: none;
+    padding: 20px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+
+.lateral{
+    background-color: tomato;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.box{
+    display: inline-block ;
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    margin: 50px 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    }
+
+.cuerpo{
+    
+}
+
+.pie{
+    background-color: darkgoldenrod;
+    font-family: monospace;
+    font-size: 20px;
+}
